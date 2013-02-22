@@ -1,5 +1,7 @@
 (function(w){
+	console.debug('dont like this anom function make it better');
 
+	var GREAT_COMMAND = 'linea';
 	var NAME = {
 		// comment get
 		get : function () {
