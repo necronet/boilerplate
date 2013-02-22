@@ -7,6 +7,9 @@
 		del : function() {
 			return "del";
 		},
+		post : function () {
+			return "post";
+		},
 		put : function () {
 			return "put";
 		}
